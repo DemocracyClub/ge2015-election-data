@@ -1,18 +1,18 @@
 {
-  "title": "UK European Election Data - Regions",
-  "description": "Regions in the UK European Election",
+  "title": "UK Parliamentary Election Data - Constituencies",
+  "description": "Constituencies in the 2015 UK Parliamentary Election",
   "fields": [
       {
-          "name": "Area Code",
+          "name": "Constituency Code",
           "type": "string",
           "description": "The Office of National Statistics code for the area",
           "constraints": {
             "required": true,
-            "pattern": "(E|N|S|W)(07|15|08)00000[0-9]"
+            "pattern": "(E|N|S|W)(14|06|07)000[0-9]+"
           }
       },
       {
-          "name": "Area",
+          "name": "Constituency",
           "type": "string",
           "description": "The name of the area which the result is for",
           "constraints": {
@@ -20,12 +20,12 @@
           }
       },
       {
-          "name": "Area URL",
+          "name": "Constituency URL",
           "type": "string",
           "description": "",
           "constraints": {
             "required": true,
-            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)00000[0-9]"
+            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)000[0-9]+"
           }
       }
   ]
