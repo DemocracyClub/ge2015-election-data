@@ -8,7 +8,7 @@
           "description": "The Office of National Statistics code for the area",
           "constraints": {
             "required": true,
-            "pattern": "(E|N|S|W)(14|06|07)000[0-9]+"
+            "pattern": "(E|N|S|W)(14|06|07)000[0-9]"
           }
       },
       {
@@ -25,7 +25,7 @@
           "description": "",
           "constraints": {
             "required": true,
-            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)000[0-9]+"
+            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(14|06|07)000[0-9]+"
           }
       }
   ]
