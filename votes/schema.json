@@ -23,7 +23,7 @@
           "type": "number",
           "description": "The Office of National Statistics code for the Constituency",
           "constraints": {
-            "pattern": "(E|N|S|W)(14|06|07)000[0-9]+",
+            "pattern": "(E|N|S|W)(14|06|07)00[0-9]+",
             "required": true
           }
       },
@@ -33,7 +33,7 @@
           "description": "",
           "constraints": {
             "required": true,
-            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(14|06|07)000[0-9]+"
+            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(14|06|07)00[0-9]+"
           }
       },
       {
