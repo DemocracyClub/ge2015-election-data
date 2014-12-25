@@ -1,25 +1,24 @@
-[![Build Status](https://travis-ci.org/theodi/euro-elections.svg)](https://travis-ci.org/theodi/euro-elections)
+[![Build Status](https://travis-ci.org/openpolitics/ge2015-election-data.svg)](https://travis-ci.org/openpolitics/ge2015-election-data)
 
-## European Elections 2014
+## UK Parliamentary Elections 2015
 
-The results of 2014 European Elections are due to be announced on Sunday 25th May.
+The results of 2015 UK Parliamentary Elections are due to be announced on Friday 8th May, 2015.
 
-This repo will contain the results by region for the UK. We're asking you to help
-us collect this data, and test out [Cid](https://github.com/theodi/cid), which will validate the data when
+This repo will contain the results by constituency for the UK. We're asking you to help
+us collect this data, and use [Cid](https://github.com/theodi/cid) to validate the data when
 collaborators submit it.
 
 ## Some background
 
 This repo contains two folders, one which will contain CSV files with the votes
-each party received by region, and another (as this is a [Closed list PR election](https://en.wikipedia.org/wiki/Closed_list))
-which will contain the awarded seats and the details of the elected MEPs.
+each party received by constituency.
 
 ## Collaborating
 
-First, [fork the repo](https://github.com/theodi/euro-elections/fork), then clone it
+First, [fork the repo](https://github.com/openpolitics/ge2015-election-data/fork), then clone it
 to your local machine either on the command line like so:
 
-  	git clone git@github.com:YOUR_USERNMAE/euro-elections.git
+  	git clone git@github.com:YOUR_USERNMAE/ge2015-election-data.git
 
 or using [Github for Mac](https://mac.github.com/)
 
@@ -30,38 +29,37 @@ Then add two CSV files in the following formats:
 The votes CSVs should live in the folder /votes and have the following columns:
 
 * Poll Date - Date the poll took place in format YYYY-MM-DD
-* Area - The name of the electoral region ([see a list of regions](https://theodi.github.io/euro-elections/regions/regions.csv))
-* Area Code - The ONS code for the electoral region
-* Area URL - The ONS uri for the electoral region
+* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://openpolitics.github.io/ge2015-election-data/constituencies/constituencies.csv))
+* Constituency Code - The [MapIt](http://mapit.mysociety.org/) code for the constituency
+* Constituency URL - The MapIt URI for the electoral region
 * Party - The name of the party
-* Party ID - The Electoral Commision ID of the party ([see a list of IDs](https://theodi.github.io/euro-elections/parties/parties.csv))
+* Party ID - The Electoral Commision ID of the party ([see a list of IDs](https://openpolitics.github.io/ge2015-election-data/parties/parties.csv))
 * Votes - The number of votes for that party
 * Ballots Rejected - The number of rejected ballots
 
-The filename should have the format `REGION-NAME-votes.csv`
+The filename should have the format `CONSTITUENCY-NAME-votes.csv`
 
-You can [see an example of what the file should look like here](https://theodi.github.io/euro-elections/votes/example-votes.csv)
+You can [see an example of what the file should look like here](https://openpolitics.github.io/ge2015-election-data/votes/example-votes.csv)
 
 ### Seats
 
 The seats CSVs should live in the folder /seats and have the following columns:
 
 * Poll Date - Date the poll took place in format YYYY-MM-DD
-* Area - The name of the electoral region ([see a list of regions](https://theodi.github.io/euro-elections/regions/regions.csv))
-* Area Code - The ONS code for the electoral region
-* Area URL - The ONS uri for the electoral region
-* Seat - The number of the seat won
+* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://openpolitics.github.io/ge2015-election-data/constituencies/constituencies.csv))
+* Constituency Code - The [MapIt](http://mapit.mysociety.org/) code for the constituency
+* Constituency URL - The MapIt URI for the electoral region
 * Party - The name of the winning party
-* Party ID - The Electoral Commision ID of the winning party ([see a list of IDs](https://theodi.github.io/euro-elections/parties/parties.csv))
+* Party ID - The Electoral Commision ID of the winning party ([see a list of IDs](https://openpolitics.github.io/ge2015-election-data/parties/parties.csv))
 * Name - The name of the winning candidate
 * Address - The address of the winning candidate
 * Postcode - The postcode of the winning candidate
 
-The filename should have the format `REGION-NAME-seats.csv`
+The filename should have the format `CONSTITUENCY-NAME-seats.csv`
 
-You can [see an example of what the file should look like here](https://theodi.github.io/euro-elections/seats/example-seats.csv)
+You can [see an example of what the file should look like here](https://openpolitics.github.io/ge2015-election-data/seats/example-seats.csv)
 
-Once you have made your changes, push them up to your fork, and [open a pull request](https://github.com/theodi/euro-elections/compare/).
+Once you have made your changes, push them up to your fork, and [open a pull request](https://github.com/openpolitics/ge2015-election-data/compare/).
 
 Our [robots](https://github.com/theodi/cid) will then check the format of the data,
 and apply a status to it. If we're happy, we'll merge the changes.
