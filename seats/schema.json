@@ -12,37 +12,29 @@
           }
       },
       {
-          "name": "Area",
+          "name": "Constituency",
           "type": "string",
-          "description": "The name of the area which the result is for",
+          "description": "The name of the constituency which the result is for",
           "constraints": {
             "required": true
           }
       },
       {
-          "name": "Area Code",
+          "name": "Constituency Code",
           "type": "number",
-          "description": "The Office of National Statistics code for the area",
+          "description": "The Office of National Statistics code for the constituency",
           "constraints": {
             "required": true,
-            "pattern": "(E|N|S|W)(07|15|08)00000[0-9]"
+            "pattern": "(E|N|S|W)(07|15|08)000[0-9]+"
           }
       },
       {
-          "name": "Area URL",
+          "name": "Constituency URL",
           "type": "string",
           "description": "",
           "constraints": {
             "required": true,
-            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)00000[0-9]"
-          }
-      },
-      {
-          "name": "Seat",
-          "type": "integer",
-          "description": "",
-          "constraints": {
-            "required": true
+            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)000[0-9]+"
           }
       },
       {
