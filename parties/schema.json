@@ -1,11 +1,11 @@
 {
-  "title": "UK European Election Data - Parties",
-  "description": "A list of parties and their Electoral Commision ID",
+  "title": "UK Parliamentary Election Data - Parties",
+  "description": "A list of parties and their Electoral Commission ID",
   "fields": [
       {
           "name": "EC Reference Number",
           "type": "string",
-          "description": "The  Electoral Commision ID of the party",
+          "description": "The Electoral Commision ID of the party",
           "constraints": {
             "required": true,
             "pattern": "PPm? [0-9]+"
