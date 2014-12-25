@@ -1,6 +1,6 @@
 {
-  "title": "UK European Election Data - Votes",
-  "description": "Votes per party by region in a UK European Election",
+  "title": "UK Parliamentary Election Data - Votes",
+  "description": "Votes per party by constituency in a UK Parliamentary Election",
   "fields": [
       {
           "name": "Poll Date",
@@ -11,29 +11,29 @@
           }
       },
       {
-          "name": "Area",
+          "name": "Constituency",
           "type": "string",
-          "description": "The name of the area which the result is for",
+          "description": "The name of the Constituency which the result is for",
           "constraints": {
             "required": true
           }
       },
       {
-          "name": "Area Code",
+          "name": "Constituency Code",
           "type": "number",
-          "description": "The Office of National Statistics code for the area",
+          "description": "The Office of National Statistics code for the Constituency",
           "constraints": {
-            "pattern": "(E|N|S|W)(07|15|08)00000[0-9]",
+            "pattern": "(E|N|S|W)(07|15|08)000[0-9]+",
             "required": true
           }
       },
       {
-          "name": "Area URL",
+          "name": "Constituency URL",
           "type": "string",
           "description": "",
           "constraints": {
             "required": true,
-            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)00000[0-9]"
+            "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(07|15|08)000[0-9]+"
           }
       },
       {
