@@ -29,35 +29,35 @@ Then add two CSV files in the following formats:
 The votes CSVs should live in the folder /votes and have the following columns:
 
 * Poll Date - Date the poll took place in format YYYY-MM-DD
-* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://democracyclub.github.io/ge2015-election-data/constituencies/constituencies.csv))
+* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/constituencies/constituencies.csv))
 * Constituency Code - The [MapIt](http://mapit.mysociety.org/) code for the constituency
 * Constituency URL - The MapIt URI for the electoral region
 * Party - The name of the party
-* Party ID - The Electoral Commision ID of the party ([see a list of IDs](https://democracyclub.github.io/ge2015-election-data/parties/parties.csv))
+* Party ID - The Electoral Commision ID of the party ([see a list of IDs](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/parties/parties.csv))
 * Votes - The number of votes for that party
 * Ballots Rejected - The number of rejected ballots
 
 The filename should have the format `CONSTITUENCY-NAME-votes.csv`
 
-You can [see an example of what the file should look like here](https://democracyclub.github.io/ge2015-election-data/votes/example-votes.csv)
+You can [see an example of what the file should look like here](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/votes/example-votes.csv)
 
 ### Seats
 
 The seats CSVs should live in the folder /seats and have the following columns:
 
 * Poll Date - Date the poll took place in format YYYY-MM-DD
-* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://democracyclub.github.io/ge2015-election-data/constituencies/constituencies.csv))
+* Constituency - The name of the parliamentary constituency ([see a list of constituencies](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/constituencies/constituencies.csv))
 * Constituency Code - The [MapIt](http://mapit.mysociety.org/) code for the constituency
 * Constituency URL - The MapIt URI for the electoral region
 * Party - The name of the winning party
-* Party ID - The Electoral Commision ID of the winning party ([see a list of IDs](https://democracyclub.github.io/ge2015-election-data/parties/parties.csv))
+* Party ID - The Electoral Commision ID of the winning party ([see a list of IDs](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/parties/parties.csv))
 * Name - The name of the winning candidate
 * Address - The address of the winning candidate
 * Postcode - The postcode of the winning candidate
 
 The filename should have the format `CONSTITUENCY-NAME-seats.csv`
 
-You can [see an example of what the file should look like here](https://democracyclub.github.io/ge2015-election-data/seats/example-seats.csv)
+You can [see an example of what the file should look like here](https://raw.githubusercontent.com/DemocracyClub/ge2015-election-data/master/seats/example-seats.csv)
 
 Once you have made your changes, push them up to your fork, and [open a pull request](https://github.com/democracyclub/ge2015-election-data/compare/).
 
