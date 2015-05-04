@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/democracyclub/ge2015-election-data.svg)](https://travis-ci.org/democracyclub/ge2015-election-data)
+[![Build Status](https://travis-ci.org/DemocracyClub/ge2015-election-data.svg?branch=master)](https://travis-ci.org/DemocracyClub/ge2015-election-data)
 
 ## UK Parliamentary Elections 2015
 
