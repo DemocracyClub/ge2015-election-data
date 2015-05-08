@@ -58,10 +58,5 @@
           "type": "integer",
           "description": ""
       },
-      {
-          "name": "Ballots Rejected",
-          "type": "integer",
-          "description": ""
-      }
   ]
 }
