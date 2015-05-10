@@ -1,62 +1,62 @@
 {
-  "title": "UK Parliamentary Election Data - Votes",
-  "description": "Votes per party by constituency in a UK Parliamentary Election",
+  "title": "UK Parliamentary Election Data - Votes"
+  "description": "Votes per party by constituency in a UK Parliamentary Election"
   "fields": [
       {
-          "name": "Poll Date",
-          "type": "date",
-          "description": "Date the poll took place",
+          "name": "Poll Date"
+          "type": "date"
+          "description": "Date the poll took place"
           "constraints": {
             "format": "yyyy-mm-dd"
           }
-      },
+      }
       {
-          "name": "Constituency",
-          "type": "string",
-          "description": "The name of the Constituency which the result is for",
+          "name": "Constituency"
+          "type": "string"
+          "description": "The name of the Constituency which the result is for"
           "constraints": {
             "required": true
           }
-      },
+      }
       {
-          "name": "Constituency Code",
-          "type": "number",
-          "description": "The Office of National Statistics code for the Constituency",
+          "name": "Constituency Code"
+          "type": "number"
+          "description": "The Office of National Statistics code for the Constituency"
           "constraints": {
-            "pattern": "(E|N|S|W)(14|06|07)00[0-9]+",
+            "pattern": "(E|N|S|W)(14|06|07)00[0-9]+"
             "required": true
           }
-      },
+      }
       {
-          "name": "Constituency URL",
-          "type": "string",
-          "description": "",
+          "name": "Constituency URL"
+          "type": "string"
+          "description": ""
           "constraints": {
-            "required": true,
+            "required": true
             "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(14|06|07)00[0-9]+"
           }
-      },
+      }
       {
-          "name": "Party",
-          "type": "string",
-          "description": "",
+          "name": "Party"
+          "type": "string"
+          "description": ""
           "constraints": {
             "required": true
           }
-      },
+      }
       {
-          "name": "Party ID",
-          "type": "string",
-          "description": "",
+          "name": "Party ID"
+          "type": "string"
+          "description": ""
           "constraints": {
-            "required": true,
+            "required": true
             "pattern": "PPm? [0-9]+"
           }
-      },
+      }
       {
-          "name": "Votes",
-          "type": "integer",
+          "name": "Votes"
+          "type": "integer"
           "description": ""
-      },
+      }
   ]
 }
