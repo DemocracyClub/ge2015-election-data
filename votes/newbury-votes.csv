@@ -1,9 +1,9 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,UK Independence Party (UKIP),PP85
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Conservative Party,PP52
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Liberal Democrats,PP90
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Green Party,PP63
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Apolitical Democrats,PP845
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Labour Party,PP53
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Independent,
-2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Patriotic Socialist Party,PP2187
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,UK Independence Party (UKIP),PP85,6195,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Conservative Party,PP52,34973,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Liberal Democrats,PP90,8605,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Green Party,PP63,2324,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Apolitical Democrats,PP845,228,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Labour Party,PP53,4837,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Independent,,85,
+2015-05-07,"Newbury",E14000830,http://statistics.data.gov.uk/doc/statistical-geography/E14000830,Patriotic Socialist Party,PP2187,53,

@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,UK Independence Party (UKIP),PP85
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Official Monster Raving Loony Party,PP66
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Liberal Democrats,PP90
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Labour Party,PP53
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Conservative Party,PP52
-2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Green Party,PP63
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,UK Independence Party (UKIP),PP85,4732,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Official Monster Raving Loony Party,PP66,384,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Liberal Democrats,PP90,5657,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Labour Party,PP53,5290,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Conservative Party,PP52,35573,
+2015-05-07,"North East Hampshire",E14000844,http://statistics.data.gov.uk/doc/statistical-geography/E14000844,Green Party,PP63,2364,

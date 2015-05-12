@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Liberal Democrats,PP90
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Conservative Party,PP52
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Green Party,PP63
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Labour Party,PP53
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Lincolnshire Independents Lincolnshire First,PP733
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,UK Independence Party (UKIP),PP85
-2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Independent,
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Liberal Democrats,PP90,3263,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Conservative Party,PP52,28399,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Green Party,PP63,1872,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Labour Party,PP53,9070,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Lincolnshire Independents Lincolnshire First,PP733,724,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,UK Independence Party (UKIP),PP85,9410,
+2015-05-07,"Grantham and Stamford",E14000714,http://statistics.data.gov.uk/doc/statistical-geography/E14000714,Independent,,1017,

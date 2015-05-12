@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Liberal Democrats,PP90
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,UK Independence Party (UKIP),PP85
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Labour Party,PP53
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Green Party,PP63
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Independent,
-2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Conservative Party,PP52
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Liberal Democrats,PP90,2004,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,UK Independence Party (UKIP),PP85,7631,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Labour Party,PP53,19488,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Green Party,PP63,1059,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Independent,,161,
+2015-05-07,"North East Derbyshire",E14000843,http://statistics.data.gov.uk/doc/statistical-geography/E14000843,Conservative Party,PP52,17605,

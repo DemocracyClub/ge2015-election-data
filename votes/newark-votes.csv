@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Liberal Democrats,PP90
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Green Party,PP63
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Conservative Party,PP52
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,UK Independence Party (UKIP),PP85
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Labour Party,PP53
-2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Consensus,PP2626
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Liberal Democrats,PP90,2385,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Green Party,PP63,1792,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Conservative Party,PP52,29834,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,UK Independence Party (UKIP),PP85,6294,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Labour Party,PP53,11360,
+2015-05-07,"Newark",E14000829,http://statistics.data.gov.uk/doc/statistical-geography/E14000829,Consensus,PP2626,637,

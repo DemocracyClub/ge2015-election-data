@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,UK Independence Party (UKIP),PP85
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Labour Party,PP53
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Green Party,PP63
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,The Sustainable Population Party,PP2688
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Independent,
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Liberal Democrats,PP90
-2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Conservative Party,PP52
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,UK Independence Party (UKIP),PP85,7042,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Labour Party,PP53,5690,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Green Party,PP63,1504,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,The Sustainable Population Party,PP2688,116,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Independent,,2424,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Liberal Democrats,PP90,2157,
+2015-05-07,"Maldon",E14000806,http://statistics.data.gov.uk/doc/statistical-geography/E14000806,Conservative Party,PP52,29112,

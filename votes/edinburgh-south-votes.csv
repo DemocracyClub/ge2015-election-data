@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Conservative Party,PP52,8626
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish Socialist Party,PP46,197
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish National Party (SNP),PP102,16656
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,UK Independence Party (UKIP),PP85,601
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish Green Party,PP130,2090
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Labour Party,PP53,19293
-2015-05-07,Edinburgh South,S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Liberal Democrats,PP90,1823
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Conservative Party,PP52,8626,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish Socialist Party,PP46,197,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish National Party (SNP),PP102,16656,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,UK Independence Party (UKIP),PP85,601,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Scottish Green Party,PP130,2090,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Labour Party,PP53,19293,
+2015-05-07,"Edinburgh South",S14000024,http://statistics.data.gov.uk/doc/statistical-geography/S14000024,Liberal Democrats,PP90,1823,

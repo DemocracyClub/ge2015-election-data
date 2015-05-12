@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,UK Independence Party (UKIP),PP85
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Labour Party,PP53
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Conservative Party,PP52
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Liberal Democrats,PP90
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Green Party,PP63
-2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Independent,
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,UK Independence Party (UKIP),PP85,7225,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Labour Party,PP53,19661,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Conservative Party,PP52,9150,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Liberal Democrats,PP90,957,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Green Party,PP63,1466,
+2015-05-07,"Denton and Reddish",E14000661,http://statistics.data.gov.uk/doc/statistical-geography/E14000661,Independent,,222,

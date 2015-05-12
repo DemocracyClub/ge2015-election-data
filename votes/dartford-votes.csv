@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Liberal Democrats,PP90
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Green Party,PP63
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Conservative Party,PP52
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,UK Independence Party (UKIP),PP85
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Labour Party,PP53
-2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,English Democrats,PP17
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Liberal Democrats,PP90,1454,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Green Party,PP63,1324,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Conservative Party,PP52,25670,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,UK Independence Party (UKIP),PP85,10434,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,Labour Party,PP53,13325,
+2015-05-07,"Dartford",E14000659,http://statistics.data.gov.uk/doc/statistical-geography/E14000659,English Democrats,PP17,211,

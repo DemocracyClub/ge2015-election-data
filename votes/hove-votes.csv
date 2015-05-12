@@ -1,9 +1,9 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Independent,
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Conservative Party,PP52
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Official Monster Raving Loony Party,PP66
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Green Party,PP63
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Trade Unionist and Socialist Coalition,PP804
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Labour Party,PP53
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Liberal Democrats,PP90
-2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,UK Independence Party (UKIP),PP85
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Independent,,322,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Conservative Party,PP52,20846,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Official Monster Raving Loony Party,PP66,125,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Green Party,PP63,3569,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Trade Unionist and Socialist Coalition,PP804,144,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Labour Party,PP53,22082,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,Liberal Democrats,PP90,1861,
+2015-05-07,"Hove",E14000755,http://statistics.data.gov.uk/doc/statistical-geography/E14000755,UK Independence Party (UKIP),PP85,3265,

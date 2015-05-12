@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Liberal Democrats,PP90,14000
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,UK Independence Party (UKIP),PP85,2922
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Conservative Party,PP52,17833
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,English Democrats,PP17,63
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Labour Party,PP53,6216
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Independent,,499
-2015-05-07,Bath,E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Green Party,PP63,5634
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Liberal Democrats,PP90,14000,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,UK Independence Party (UKIP),PP85,2922,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Conservative Party,PP52,17833,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,English Democrats,PP17,63,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Labour Party,PP53,6216,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Independent,,499,
+2015-05-07,"Bath",E14000547,http://statistics.data.gov.uk/doc/statistical-geography/E14000547,Green Party,PP63,5634,

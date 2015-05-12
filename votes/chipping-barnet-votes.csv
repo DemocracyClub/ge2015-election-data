@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Independent,
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,UK Independence Party (UKIP),PP85
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Green Party,PP63
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Liberal Democrats,PP90
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Labour Party,PP53
-2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Conservative Party,PP52
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Independent,,118,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,UK Independence Party (UKIP),PP85,4151,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Green Party,PP63,2501,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Liberal Democrats,PP90,2381,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Labour Party,PP53,18103,
+2015-05-07,"Chipping Barnet",E14000636,http://statistics.data.gov.uk/doc/statistical-geography/E14000636,Conservative Party,PP52,25759,

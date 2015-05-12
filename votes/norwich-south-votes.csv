@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Independent,
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,UK Independence Party (UKIP),PP85
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Green Party,PP63
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Labour Party,PP53
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Class War,PP2269
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Conservative Party,PP52
-2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Liberal Democrats,PP90
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Independent,,60,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,UK Independence Party (UKIP),PP85,4539,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Green Party,PP63,6749,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Labour Party,PP53,19033,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Class War,PP2269,96,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Conservative Party,PP52,11379,
+2015-05-07,"Norwich South",E14000864,http://statistics.data.gov.uk/doc/statistical-geography/E14000864,Liberal Democrats,PP90,6607,

@@ -1,8 +1,8 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Trade Unionist and Socialist Coalition,PP804
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Independent,
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Conservative Party,PP52
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Green Party,PP63
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Liberal Democrats,PP90
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,UK Independence Party (UKIP),PP85
-2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Labour Party,PP53
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Trade Unionist and Socialist Coalition,PP804,540,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Independent,,117,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Conservative Party,PP52,11034,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Green Party,PP63,1468,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Liberal Democrats,PP90,1233,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,UK Independence Party (UKIP),PP85,4290,
+2015-05-07,"Leicester East",E14000782,http://statistics.data.gov.uk/doc/statistical-geography/E14000782,Labour Party,PP53,29386,

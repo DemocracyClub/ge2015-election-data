@@ -1,5 +1,5 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,Hertsmere,E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Liberal Democrats,PP90,2777
-2015-05-07,Hertsmere,E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Labour Party,PP53,11235
-2015-05-07,Hertsmere,E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Conservative Party,PP52,29696
-2015-05-07,Hertsmere,E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,UK Independence Party (UKIP),PP85,6383
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Hertsmere",E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Liberal Democrats,PP90,2777,
+2015-05-07,"Hertsmere",E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Labour Party,PP53,11235,
+2015-05-07,"Hertsmere",E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,Conservative Party,PP52,29696,
+2015-05-07,"Hertsmere",E14000745,http://statistics.data.gov.uk/doc/statistical-geography/E14000745,UK Independence Party (UKIP),PP85,6383,

@@ -1,6 +1,6 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Liberal Democrats,PP90
-2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Conservative Party,PP52
-2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,UK Independence Party (UKIP),PP85
-2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Labour Party,PP53
-2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Green Party,PP63
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Liberal Democrats,PP90,18123,
+2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Conservative Party,PP52,19206,
+2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,UK Independence Party (UKIP),PP85,5427,
+2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Labour Party,PP53,5000,
+2015-05-07,"Lewes",E14000786,http://statistics.data.gov.uk/doc/statistical-geography/E14000786,Green Party,PP63,2784,

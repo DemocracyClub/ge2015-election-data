@@ -1,6 +1,6 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,UK Independence Party (UKIP),PP85
-2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Liberal Democrats,PP90
-2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Labour Party,PP53
-2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Green Party,PP63
-2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Conservative Party,PP52
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,UK Independence Party (UKIP),PP85,5251,
+2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Liberal Democrats,PP90,6269,
+2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Labour Party,PP53,13348,
+2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Green Party,PP63,2558,
+2015-05-07,"York Outer",E14001062,http://statistics.data.gov.uk/doc/statistical-geography/E14001062,Conservative Party,PP52,26477,

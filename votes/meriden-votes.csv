@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Liberal Democrats,PP90
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Independence from Europe,PP1918
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Green Party,PP63
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,UK Independence Party (UKIP),PP85
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Labour Party,PP53
-2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Conservative Party,PP52
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Liberal Democrats,PP90,2638,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Independence from Europe,PP1918,100,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Green Party,PP63,2170,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,UK Independence Party (UKIP),PP85,8908,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Labour Party,PP53,9996,
+2015-05-07,"Meriden",E14000812,http://statistics.data.gov.uk/doc/statistical-geography/E14000812,Conservative Party,PP52,28791,

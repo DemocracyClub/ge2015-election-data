@@ -1,7 +1,7 @@
-Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Scottish Green Party,PP130
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Liberal Democrats,PP90
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Labour Party,PP53
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,UK Independence Party (UKIP),PP85
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Conservative Party,PP52
-2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Scottish National Party (SNP),PP102
+Poll Date,Constituency,Constituency Code,Constituency URL,Party,Party ID,Votes,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Scottish Green Party,PP130,1140,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Liberal Democrats,PP90,18168,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Labour Party,PP53,6425,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,UK Independence Party (UKIP),PP85,1015,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Conservative Party,PP52,6732,
+2015-05-07,"Edinburgh West",S14000026,http://statistics.data.gov.uk/doc/statistical-geography/S14000026,Scottish National Party (SNP),PP102,21378,
