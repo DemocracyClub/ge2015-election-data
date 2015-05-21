@@ -17,8 +17,6 @@ foreach ( glob( "votes/*-votes.csv" ) as $filename ) {
 		if (preg_match( '/votes\/(.*)-votes.csv/', $filename, $matches )) {
 			$json_filename = $matches[1];
 		}
-var_dump($json_filename);
-		#if ( file_exists( $filename ) )
 
 		$headers = array();
 		$data_rows = array();
