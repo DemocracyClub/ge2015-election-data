@@ -1,0 +1,59 @@
+
+{
+  "title": "UK Parliamentary Election Data - Seats",
+  "description": "Seats won by party in a UK Parliamentary Election",
+  "fields": [
+    {
+      "name": "Poll Date",
+      "type": "date",
+      "description": "Date the poll took place",
+      "constraints": {
+        "format": "yyyy-mm-dd",
+        "required": true
+      }
+    },
+    {
+      "name": "Constituency",
+      "type": "string",
+      "description": "The name of the constituency which the result is for",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "Constituency Code",
+      "type": "number",
+      "description": "The Office of National Statistics code for the constituency",
+      "constraints": {
+        "required": true,
+        "pattern": "(E|N|S|W)(14|06|07)00[0-9]+"
+      }
+    },
+    {
+      "name": "Constituency URL",
+      "type": "string",
+      "description": "",
+      "constraints": {
+        "required": true,
+        "pattern": "http://statistics.data.gov.uk/doc/statistical-geography/(E|N|S|W)(14|06|07)00[0-9]+"
+      }
+    },
+    {
+      "name": "Party",
+      "type": "string",
+      "description": "",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "Party ID",
+      "type": "string",
+      "description": "",
+      "constraints": {
+        "required": false,
+        "pattern": "(PPm? [0-9]+)?"
+      }
+    }
+  ]
+}
